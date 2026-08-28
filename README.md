@@ -177,6 +177,75 @@ Environmental monitoring system — monitors temperature, humidity, and light in
 
 <br><br>
 
+## ThingSpeak Setup
+1. Getting started with ThingSpeak :
+
+   <table><tr><td width="810">
+
+      • Please <a href="https://thingspeak.com/login">Log in</a> to access the ThingSpeak service.
+      
+      • If you don't have a ThingSpeak account yet, please create one.
+
+   </td></tr></table><br>
+
+2. Create a channel :
+
+   <table><tr><td width="810">
+
+      • After logging into the account -> click ``` New Channel ```.
+   
+      • Fill in the form according to your needs.
+   
+      • Click ``` Save Channel ```.
+   
+      • Click ``` Sharing ``` -> in the ``` Channel Sharing Settings ``` section please select -> ``` Keep channel view private ```.
+
+   </td></tr></table><br>
+
+3. Create visualizations :
+
+   <table><tr><td width="810">
+
+      • Make sure you are in the ``` Channel ``` menu -> ``` Private View ``` section.
+   
+      • Click ``` + Add Visualization ```.
+   
+      • Click ``` Field Chart ``` -> then select ``` Save ```.
+   
+      • If you want to change the visualization content, please click ``` Field Chart Option ``` -> then select ``` Save ``` to save.
+
+   </td></tr></table><br>
+
+4. Firmware configuration :
+
+   <table><tr><td width="810">
+
+      • Make sure you are in the ``` Channel ``` menu -> ``` Private View ``` section.
+   
+      • Copy the ``` Channel ID ``` -> paste it into the firmware code. For example :
+   
+      <table><tr><td width="780">
+
+      ```ino
+      unsigned long myChannelNumber = '1504372'; // ID Channel ThingSpeak
+      ```
+
+      </td></tr></table>
+   
+      • Please go to the ``` API Keys ``` section -> paste it into the firmware code. For example :
+   
+      <table><tr><td width="780">
+
+      ```ino
+      const char* myWriteAPIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
+      ```
+
+      </td></tr></table>
+
+   </td></tr></table>
+
+<br><br>
+
 ## Get Started
 1. Download and extract this repository.<br><br>
     
