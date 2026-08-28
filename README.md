@@ -198,7 +198,7 @@ Environmental monitoring system — monitors temperature, humidity, and light in
    
       • Click ``` Save Channel ```.
    
-      • Click ``` Sharing ``` -> in the ``` Channel Sharing Settings ``` section please select -> ``` Keep channel view private ```.
+      • Click ``` Sharing ``` -> in the ``` Channel Sharing Settings ``` section, please select -> ``` Keep channel view private ```.
 
    </td></tr></table><br>
 
