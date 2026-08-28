@@ -177,6 +177,75 @@ Sistem pemantauan lingkungan — memantau suhu, kelembapan, dan intensitas cahay
 
 <br><br>
 
+## Pengaturan ThingSpeak
+1. Memulai ThingSpeak : 
+
+   <table><tr><td width="810">
+   
+      • Silakan <a href="https://thingspeak.com/login">Masuk</a> agar dapat mengakses layanan ThingSpeak.
+      
+      • Jika anda belum memiliki akun ThingSpeak, silakan buat dulu.
+
+   </td></tr></table><br>
+
+2. Membuat channel : 
+
+   <table><tr><td width="810">
+   
+      • Setelah masuk ke dalam akun -> klik ``` New Channel ```.
+   
+      • Isi form sesuai dengan kebutuhan anda.
+   
+      • Klik ``` Save Channel ```.
+   
+      • Klik ``` Sharing ``` -> pada bagian ``` Channel Sharing Settings ```, silakan pilih -> ``` Keep channel view private ```.
+
+   </td></tr></table><br>
+
+3. Membuat visualization :
+
+   <table><tr><td width="810">
+
+      • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Private View ```.
+   
+      • Klik ``` + Add Visualization ```.
+   
+      • Klik ``` Field Chart ``` -> kemudian pilih ``` Save ```.
+   
+      • Jika ingin mengubah isi visualisasi, silakan klik ``` Field Chart Option ``` -> kemudian pilih ``` Save ``` untuk menyimpan.
+
+   </td></tr></table><br>
+
+4. Konfigurasi firmware : 
+
+   <table><tr><td width="810">
+   
+      • Pastikan anda berada di menu ``` Channel ``` -> bagian ``` Private View ``` section.
+   
+      • Salin ``` Channel ID ``` -> tempelkan pada kode firmware. Contohnya :
+   
+      <table><tr><td width="780">
+
+      ```ino
+      unsigned long myChannelNumber = '1504372'; // ID Channel ThingSpeak
+      ```
+
+      </td></tr></table>
+   
+      • Silakan beralih ke bagian ``` API Keys ``` -> tempelkan pada kode firmware. Contohnya :
+   
+      <table><tr><td width="780">
+
+      ```ino
+      const char* myWriteAPIKey = "TF3UPJK9O1QA5FAU"; // Apikey ThingSpeak
+      ```
+
+      </td></tr></table>
+
+   </td></tr></table>
+
+<br><br>
+
 ## Memulai
 1. Unduh dan ekstrak repositori ini.<br><br>
    
