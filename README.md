@@ -263,17 +263,27 @@ Environmental monitoring system — monitors temperature, humidity, and light in
 
 <table>
 <tr>
-<th width="840" colspan="4">Device</th>
+<th width="840" colspan="4">Device Prototype & Testing</th>
 </tr>
 <tr>
 <th width="420" colspan="2">DHT11 Sensor</th>
 <th width="420" colspan="2">LDR Sensor</th>
 </tr>
 <tr>
-<td width="210" align="center"><img src="Assets/Documentation/Experiment/DHT11 Sensor/Device.jpg" alt="device"></td>
-<td width="210" align="center"><img src="Assets/Documentation/Experiment/DHT11 Sensor/Serial Monitor.jpg" alt="serial-monitor"></td>
-<td width="210" align="center"><img src="Assets/Documentation/Experiment/LDR Sensor/Device.jpg" alt="device"></td>
-<td width="210" align="center"><img src="Assets/Documentation/Experiment/LDR Sensor/Serial Monitor.jpg" alt="serial-monitor"></td>
+<td width="210" align="center"><img src="Assets/Documentation/Experiment/Prototype/DHT11 Sensor/Device.jpg" alt="dht11"></td>
+<td width="210" align="center"><img src="Assets/Documentation/Experiment/Testing/DHT11 Sensor/Serial Monitor.jpg" alt="serial-monitor"></td>
+<td width="210" align="center"><img src="Assets/Documentation/Experiment/Prototype/LDR Sensor/Device.jpg" alt="ldr"></td>
+<td width="210" align="center"><img src="Assets/Documentation/Experiment/Testing/LDR Sensor/Serial Monitor.jpg" alt="serial-monitor"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="840" colspan="3">Enclosed Device</th>
+</tr>
+<tr>
+<td width="280" align="center"><img src="Assets/Documentation/Experiment/Cover/Device-1.jpg" alt="device-1"></td>
+<td width="280" align="center"><img src="Assets/Documentation/Experiment/Cover/Device-2.jpg" alt="device-2"></td>
+<td width="280" align="center"><img src="Assets/Documentation/Experiment/Cover/Device-3.jpg" alt="device-3"></td>
 </tr>
 </table>
 <table>
