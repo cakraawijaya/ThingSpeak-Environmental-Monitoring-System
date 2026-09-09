@@ -21,7 +21,7 @@ Environmental monitoring system — monitors temperature, humidity, and light in
 | Programming Language | C/C++ |
 | Arduino Library | • WiFi (default)<br>• DHT sensor library by Adafruit (Version: 1.4.6)<br>• ThingSpeak by MathWorks (Version: 2.1.1) |
 | Sensor | • DHT11: Air Temperature & Humidity (x1)<br>• LDR Sensor Module (x1) |
-| Other Components | • Micro USB cable - USB type A (x1)<br>• ESP32 expansion board (x1)<br>• Adaptor DC 9V 1A (x1)<br>• Jumper cable (1 set) |
+| Other Components | • Micro USB cable - USB type A (x1)<br>• ESP32 expansion board (x1)<br>• Adaptor DC 9V 1A (x1)<br>• Jumper cable (1 set)<br>• Project Box X3 (x1)<br>• Screws (x4)<br>• Spicer bolts (x4)<br>• Bolts M3 x 5 (x4)<br>• Bolts M3 x 16 (x2)<br>• Bolts M4 x 10 (x2)<br>• Nuts M3 (x6)<br>• Nuts M4 (x2) |
 
 <br><br>
 
