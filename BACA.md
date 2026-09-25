@@ -21,7 +21,7 @@ Sistem pemantauan lingkungan — memantau suhu, kelembapan, dan intensitas cahay
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | • WiFi (bawaan)<br>• DHT sensor library oleh Adafruit (Versi: 1.4.6)<br>• ThingSpeak oleh MathWorks (Versi: 2.1.1) |
 | Sensor | • DHT11: Suhu & Kelembapan Udara (x1)<br>• Modul Sensor LDR (x1) |
-| Komponen Lainnya | • Kabel USB Mikro - USB tipe A (x1)<br>• Papan ekspansi ESP32 (x1)<br>• Adaptor DC 9V 1A (x1)<br>• Kabel jumper (1 set)<br>• Box Proyek X3 (x1)<br>• Sekrup (x4)<br>• Baut spicer (x4)<br>• Baut M3 x 5 (x4)<br>• Baut M3 x 16 (x2)<br>• Baut M4 x 10 (x2)<br>• Mur M3 (x6)<br>• Mur M4 (x2) |
+| Komponen Lainnya | • Kabel USB Mikro - USB tipe A (x1)<br>• Papan ekspansi ESP32 (x1)<br>• Adaptor DC 9V 1A (x1)<br>• Kabel jumper (1 set)<br>• Box Proyek X3 (x1)<br>• Sekrup (x4)<br>• Baut M3 x 12 (x6)<br>• Baut M4 x 10 (x2)<br>• Mur M3 (x6)<br>• Mur M4 (x2) |
 
 <br><br>
 
